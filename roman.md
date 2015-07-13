@@ -23,8 +23,12 @@ Objective
 ---------
 
 1) Using Test Driven Development create a program which converts numbers to roman numerals.
+
 2) Consider the numbers 1 - 3999
+
 3) What are the roman numerals for 2014 ?
+
 3) If you have time, try doing the reverse ie. converting from roman numerals to numbers.
+
 4) Keep your code clean and simple.
 
