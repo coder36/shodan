@@ -30,7 +30,7 @@ The game score is the total of all frame scores.
 		-> 24
 
 		Example 4: Perfect Game
-		[10,0],[10,0],[10,0],[10,0],[10,0],[10,0],[10,0],[10,0],[10,0],[10,0],[10,10,10]
+		[10,0],[10,0],[10,0],[10,0],[10,0],[10,0],[10,0],[10,0],[10,0],[10,10,10]
 		-> 300
 
 The program does not need to:
