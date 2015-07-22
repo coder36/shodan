@@ -27,7 +27,7 @@ The game score is the total of all frame scores.
 
 		Example 3: Strike, followed by a 3, followed by a 4
 		[10,0],[3,0],[4,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0]
-		-> 24
+		-> 20
 
 		Example 4: Perfect Game
 		[10,0],[10,0],[10,0],[10,0],[10,0],[10,0],[10,0],[10,0],[10,0],[10,10,10]
